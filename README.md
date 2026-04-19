@@ -6,7 +6,7 @@
 
 部署完成后，请将下面链接替换为你的真实 GitHub Pages 地址：
 
-[点击打开 Demo](https://your-username.github.io/your-repo-name/)
+[点击打开 Demo](https://wangxiang-rui.github.io/xhs-product-demo/)
 
 ## 项目简介
 
